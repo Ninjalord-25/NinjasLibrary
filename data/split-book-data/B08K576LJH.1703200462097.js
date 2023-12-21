@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A Dungeons and Dragons podcast about four dads from our world transported into a realm of high fantasy and magic and their quest to rescue their sons.<br><p> Hosted on Acast. See acast.com/privacy for more information.</p>"; 
