@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Legendary 17th century swordsman Miyamoto Musashi’s exposition of sword fighting, strategy and Zen philosophy. Required reading for any martial artist, business person or student of strategy. Includes the one hour Zen inspired soundtrack The Mysterious Sound of Wind in the Bamboo. Performed on authentic Japanese instruments.</p>"; 

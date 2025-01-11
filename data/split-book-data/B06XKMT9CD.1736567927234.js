@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>The (Sort of) Dark Mage</i> is the story of a young man named Waldo who grows up in a world where monsters, the undead, and dark magic are part of everyday life. He is forced to go on a journey to prove himself and soon discovers that his beliefs don't fit into the wider world. </p>"; 

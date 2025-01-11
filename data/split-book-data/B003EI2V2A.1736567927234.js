@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Jane Yellowrock is the last of her kind - a skinwalker of Cherokee descent who can turn into any creature she desires and hunts vampires for a living. But now she's been hired by Katherine Fontaneau, one of the oldest vampires in New Orleans and the madam of Katie's Ladies, to hunt a powerful rogue vampire who's killing other vamps.</p>"; 

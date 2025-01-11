@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Annette Marie presents Book One in the Guild Codex: Warped series. Make sure to check out the companion series, The Guild Codex: Spellbound and The Guild Codex: Demonized, available now.</p>"; 

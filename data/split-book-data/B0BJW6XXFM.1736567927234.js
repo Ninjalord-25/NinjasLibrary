@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Book 3 of the next great Fantasy LitRPG Series by Seth Ring, author of Nova Terra. Get your copy today and explore a world whose secrets have been buried under decades of war.</p>"; 

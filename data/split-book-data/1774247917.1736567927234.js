@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Broccoli Bunch is getting the hang of the explorer lifestyle, and loving every minute of it. </b></p> <p>Her adventures have dragged her and her new best friend Amaryllis across entire countries in pursuit of more fun, and even more friends. There are dragons to intimidate, tournaments to lose, and secretive plots to stumble across!</p>"; 

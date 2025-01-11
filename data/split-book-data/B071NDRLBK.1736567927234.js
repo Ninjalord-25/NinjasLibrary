@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Exclusive to Audio! Somewhere amongst the shadowy stacks and the many basements of the British library, something is very much amiss - and we're not talking late returns here. Is it a ghost, or something much worse? PC Peter Grant really isn't looking forward to finding out.... </p>"; 

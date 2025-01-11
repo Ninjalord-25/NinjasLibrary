@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Ridmark Arban is the Shield Knight, the defender of the realm of Andomhaim from dark magic. </b></p> <p>But when dark magic stirs in the mountains of Taliand, the power of the Shield Knight might not even be enough to save Andomhaim....</p>"; 

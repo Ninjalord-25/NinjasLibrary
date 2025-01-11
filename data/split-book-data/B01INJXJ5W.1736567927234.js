@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b><i>Guardians of the Galaxy</i> meets <i>The Hobbit</i> in this rollicking fantasy adventure.</b> </p> <p>It's not easy to live in a world ruled by dragons. The taxes are high, and their control is complete. But for one group of bold misfits, it's time to band together and steal back some of that wealth. </p> <p>No one said they were smart. </p>"; 

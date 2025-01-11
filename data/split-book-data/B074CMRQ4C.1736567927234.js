@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the third book in Rick Riordan's epic Norse mythology series, Magnus and his friends take a boat trip to the farthest borders of Jotunheim and Niflheim in pursuit of Asgard's greatest threat. Life preservers are mandatory for this wet, wild, and wondrous adventure. </p>"; 

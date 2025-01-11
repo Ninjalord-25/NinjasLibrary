@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The first Silver John novel. </p> <p>In the wilds of Southern Appalachia lies Wolter Mountain - a sacred place for the Indians and their predecessors. But the land atop the mountain, taken over by two Englishmen, Brummitt and Hooper Voth, is undergoing frightening changes.</p>"; 
