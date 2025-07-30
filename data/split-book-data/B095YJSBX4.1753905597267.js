@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>New Orleans PI \"Red\" Gammon has a very much unwanted knack for encountering the diabolical. When three high profile citizens of the Big Easy die under bizarre circumstances, all seemingly linked by a peculiar mark in the palm of their hands, Gammon follows the clues to a very peculiar casino run by the mysterious Mr. Moretti.</p>"; 

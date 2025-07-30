@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Hi. I am Brandon Thighmaster. Monk. Hero. Inspiration. I enjoy crunching, squats, looking at myself, looking at other people looking at myself, and long walks on the beach. I also do adventures and stuff, and I guess you can read about them here. But enough about you, let's talk about me. Brandon Thighmaster.</p>"; 

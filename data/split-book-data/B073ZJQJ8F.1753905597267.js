@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The young son of a popular children's book author vanishes into the dangerous fictional world his father created. And it's going to take more than a vivid imagination to get him back alive. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>William “Lockpick” Sorling, a former apprentice member of the heroic Crimson Five, returns home to the affectionate women of his mentor team after serving time as a convicted supervillain.</p>"; 

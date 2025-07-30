@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>\"The Legend of Sleepy Hollow\" is the most famous supernatural wild chase in all of literature. One of the best known American short stories, this tale has been produced countless times for television and film. A Halloween classic! </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Here is the precursor to <i>Jurassic Park.</i> Victorian explorers have heard there is a remote plateau where dinosaurs still survive, and a group set outs on a dangerous mission to find out more about it.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>It's been 10 years since his brother destroyed of the facility, buried him alive, and left him to die. Only, he survived. Now after all these years of pain, he has come for justice.</p>"; 

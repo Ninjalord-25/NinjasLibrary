@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When Stacy goes to a party during a pandemic, the virus is the least of her problems. What takes place is nothing short of pure adrenaline, creeptastic terror. A story you won't want to put down.</p>"; 

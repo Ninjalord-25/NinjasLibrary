@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the realm of Alera, where people bond with the furies - elementals of earth, air, fire, water, and metal - 15-year-old Tavi struggles with his lack of furycrafting. But when his homeland erupts in chaos - when rebels war with loyalists and furies clash with furies - Tavi's simple courage will turn the tides of war.</p>"; 

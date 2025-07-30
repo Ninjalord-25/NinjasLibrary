@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Jonathan is attracted to the ornate mirror from the first moment he sees it in the antique shop where he works after school. But there is something wrong with the mirror, something evil - as Jonathan will discover after he accidentally gets a trace of his blood on its surface in this disturbing tale of terror.</p>"; 

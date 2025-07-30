@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Eidolon Avenue: Where the secretly guilty go to die.</p> <p>One building. Five floors. Five doors per floor. Twenty-five nightmares feeding the hunger lurking between the bricks and waiting beneath the boards.</p>"; 

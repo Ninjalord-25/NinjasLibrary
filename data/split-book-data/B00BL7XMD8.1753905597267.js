@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>The never-before-told story behind the legend of Count Dracula!</b> </p><p>The story of the Count’s greatest love, Mina Harker, and the bloodthirsty vampire hunters whose cruel pursuit drove the master of the night to actions ever more ruthless. The Count Dracula sets the record straight.…</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>John Dortmunder and company are hired by an U.N. African Ambassador to steal the famed Balabomo Emerald from the hands of a rival African country. But their daring and clever burglarly goes awry, and the emerald slips through their fingers. Undaunted, Dortmunder chases the gem by plane, train and automobile in hot pursuit of the hot rock.</p>"; 

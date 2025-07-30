@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>To enter Five Peaks Magical Academy, you must have a familiar.</b></p> <p>Abigail hoped for a bird - maybe an owl, like that of her best friend - or a cuddly cat, or perhaps a loyal hound. She even would have been happy with a particularly smart toad.</p> <p>Instead, she got you.</p>"; 

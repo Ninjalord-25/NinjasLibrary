@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "With heart-stopping stories by Zane, Tananarive Due and Steven Barnes, Joy M. Copeland, Robert Fleming, Terence Taylor, Francine Lewis, Brandon Massey, and 12 other established or up-and-coming writers, <i>Dark Dreams</i> is a must-have contemporary anthology for fans of the supernatural."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Waking up chained in a dark cellar, Ariane must struggle to survive and escape the strange fortress she finds herself in. </b></p> <p>All those around her play by rules she does not understand, and there is also this strange thirst that water cannot sate....</p>"; 

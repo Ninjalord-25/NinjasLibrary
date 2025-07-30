@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In New Orleans, a pair of undead serial killers is about to turn Mardi Gras into a horror show - unless the immortal hitman Bones can hunt them down first. From Jeaniene Frost comes a thrilling novella featuring characters from her <i>New York Times</i> bestselling Night Huntress series. Originally appeared in the anthology <i>Unbound</i>. </p>"; 

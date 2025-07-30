@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Seeing dead people and solving their murders is Darby Adler's bread and butter.</p> <p>What's not on the menu? A nosy Fed poking around her crime scenes, who seems to know a hell of a lot more than he's saying - especially about the ghosts surrounding Darby and the murderer who's desperate for her attention.</p>"; 

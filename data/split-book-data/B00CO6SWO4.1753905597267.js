@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Recovering witch Garnet Lacey owns Wisconsin's premier occult bookstore. And a fringe benefit of the job is getting customers like Sebastian Von Traum - piercing brown eyes, a sexy accent, and a killer body. The only thing missing is an aura. Which means he's dead. And that means trouble - something Garnet's a sucker for....</p>"; 

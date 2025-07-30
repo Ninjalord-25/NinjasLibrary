@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I'm an illusionist, not a psychic.</p> <p>Going on TV is supposed to advance my career, but things go wrong. </p> <p>Like vampires and zombies kind of wrong. </p> <p>My name is Sasha Urban, and this is how I learned what I am.</p>"; 

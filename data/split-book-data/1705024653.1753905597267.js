@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Eric Banyon, musician, is out playing the blues on his flute one day, but he couldn't have known that the desperate sadness of his music would free a young elven noble from the magical prison he has been languishing in for centuries - nor does he believe it!</p>"; 

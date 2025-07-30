@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When the one-night-only Traveling Vampire Show arrives in town, promising the only living vampire in captivity, beautiful Valeria, three local teenagers venture where they do not belong, and discover much more than they bargained for.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A new book <i>Strike Force 11</i></p> <p>It is the first in the series called Gate Jumpers. The book is a mesh of things I like. It is set slightly in the future and is about a group of special forces guys that are trying to stop enemies from another dimension. It has Elves, Orcs, Demons, and even annoying Gnomes.</p>"; 

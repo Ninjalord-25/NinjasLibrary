@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Princess Contessa of Constenopolie has just learned of her true identity - that of an orphan adopted and raised as a decoy to protect the real princess. But that doesn't make Contessa less of a royal target. </p>"; 

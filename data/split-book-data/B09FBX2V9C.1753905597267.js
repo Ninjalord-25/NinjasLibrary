@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>William Maltese's Flicker number one <i>Book of Answers</i> chronicles the rise of one all-knowing, all-seeing, all-powerful teenage Grand Master Magician, and the battles fought by old and young, by magic (black and white), by demons, beasts, and humans.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From the acclaimed author of the Morgan Kingsley, Exorcist books comes the gripping first novel in a new series about a private eye who discovers, to her surprise, that she's an immortal huntress.</p>"; 

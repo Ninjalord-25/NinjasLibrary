@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p> Bob Howard is a computer-hacker desk jockey, who has more than enough trouble keeping up with the endless paperwork he has to do on a daily basis. He should never be called on to do anything remotely heroic. But for some reason, he is.</p>"; 

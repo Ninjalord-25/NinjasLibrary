@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Luke Trevors, a PI with the ability to see the dead, walks between the worlds of the living and the dead alone. Shunned by both, Luke must dig deep for the resolve to finish a case that ended in bloodshed the year prior. But until Luke learns to control his demons, he’s unsure if this time around will be any different.</p>"; 

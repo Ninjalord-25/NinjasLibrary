@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Four young women have been found murdered—tortured and strangled in their own beds—all victims of the same brilliant monster. Using a skilled hand and the latest technology in forensic medicine, Kay Scarpetta begins the process of gathering the microscopic clues the latest battered body has to give.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Ammon's job was simple, to care for the dragon eggs in the Nest. It should have been easy, but it wasn't. When the sun rose after the hatch, he had made an enemy of the most powerful man in the kingdom, and he would soon learn that was the least of his problems!</p>"; 

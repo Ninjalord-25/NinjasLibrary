@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Simple magic tricks are what a little boy is looking for when he drags his father into a quaint, old shop. The proprietor seems to be a master of illusion - a genius at slight of hand. But, as the son becomes mesmerized, the father feels an icy hand grip his heart.</p>"; 

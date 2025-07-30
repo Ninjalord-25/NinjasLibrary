@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the summer of 1947, an unidentified object crashed in Roswell, New Mexico. There were no survivors. Now it's happened again. But this time, two creatures have emerged from the wreckage alive.</p>"; 

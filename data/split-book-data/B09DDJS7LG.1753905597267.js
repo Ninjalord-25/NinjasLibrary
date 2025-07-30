@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Nineteen terrifying stories of Valentine's Day, dangers in the woods, snake ladies, evil clowns, and summer camp killers all await you in this fourth bone-chilling installment of bite sized terror!</p>"; 

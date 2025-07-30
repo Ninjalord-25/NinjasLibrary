@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When former prosecutor Penn Cage returns to his hometown of Natchez, Mississippi, he doesn't find the peace he desperately craves. He finds that his own father is being blackmailed by a corrupt ex-cop. And when Penn investigates, he uncovers a murderous secret - and the small town's violent past.</p>"; 

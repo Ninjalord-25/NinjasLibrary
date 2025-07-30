@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I led a quiet life, peacefully ruling the underworld until that mother of *** showed up with her people and angels. They destroyed everything I'd built with so much effort and nearly killed me.</p> <p>But I managed to return! Wait . . . My only disciple and candidate for a new body is a sick kid who's about to die? Are you serious?!</p>"; 

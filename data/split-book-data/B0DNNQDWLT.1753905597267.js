@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I had lain down in my crypt to rest for a few decades, but when I awoke, centuries had passed. My castle is in ruins, my clan is gone, and necromancers are considered just a fairy tale for children.</p> <p>They take me for a healer. That's because the world is sick. And it's time for strong medicine.</p>"; 

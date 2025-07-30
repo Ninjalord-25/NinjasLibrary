@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>What happens when a geeky girl steals money from the mob, tries to save her friends life from an assassin, and stop a drug deal? Plus who is the mysterious hot guy she keeps running into?</p>"; 

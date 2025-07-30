@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this follow-up to <i>New York Times</i> best sellers <i>The Isle of the Lost</i> and <i>Return to the Isle of the Lost</i>, Mal, Evie, Carlos, and Jay face their biggest challenge yet as a rotten villain from their past returns. They'll have to do everything in their power - good and evil - to keep Auradon safe. </p>"; 

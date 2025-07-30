@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p> A man and woman possessed of telekinetic powers. She is the doctor. He is the experiment. What comes between them is a terrifying secret history that could save them or destroy them.</p>"; 

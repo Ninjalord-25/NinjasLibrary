@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b><i>The Counterfeit Candidate</i></b><b> is an electrifying, alternate-history political-crime thriller set in North and South America.</b></p> <p>An incredible historical truth stretching from Hitler’s infamous bunker in Berlin to the White House in Washington threatens the very heart and soul of American democracy.</p>"; 
