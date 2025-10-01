@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Monster Girl Defense Force is really good at their job. They've carved out a small niche in an otherwise desolate and harsh world, and for the moment, all seems well. </p> <p>But trouble is on the horizon, and to stop it, they'll need something they haven't had in a long time. </p> <p>A man.</p>"; 

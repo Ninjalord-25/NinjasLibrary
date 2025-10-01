@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "With <i>New York Times</i> best-sellers like <i>Bloodsucking Fiends</i> to his credit, Christopher Moore has developed a devoted cult following. <p><i>Coyote Blue</i> introduces Samuel Hunter, a young man who's running from his past while being tormented by an ancient Crow God with a talent for mischief.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When a party of goblin warriors find themselves trapped behind enemy lines, it'll take more than whining (and a bemused Elven veterinarian) to get them home again.</p> <p>Nine Goblins is a novella of low . . . very low . . . fantasy.</p>"; 
