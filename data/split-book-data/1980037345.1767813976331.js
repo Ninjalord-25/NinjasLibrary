@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Master of the macabre David Lubar is back with<i> Check Out the Library Weenies, </i>his ninth collection of Weenies Stories. Here are 30 more scary stories for the middle grade audience - perfect for both avid and reluctant young listeners who like a few chills and a lot of laughs. Don't be a weenie. Listen to these stories. If you dare!</p>"; 

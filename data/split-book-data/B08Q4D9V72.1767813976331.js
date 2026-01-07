@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This important new anthology collects 13 tales by forgotten women writers from the seminal <i>Weird Tales</i> magazine, originally published between the 1920s and 1950s. The authors featured are Everil Worrell, Mary Elizabeth Counselman, Greye La Spina, and Eli Colter. This edition also features a new introduction by Melanie Anderson.</p>"; 

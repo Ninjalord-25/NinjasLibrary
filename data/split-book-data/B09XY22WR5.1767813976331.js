@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When Cole set something free in the dreamworld of The Overlay, he had no idea it could cause harm in the real world. But now someone is dead and the shaman must use all of his newfound powers to prevent another tragedy and rein in a new menace known only as Dark Beard.</p>"; 
